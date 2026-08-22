@@ -1,0 +1,13 @@
+# Transcripts are NEVER published. They are the working substrate only.
+# The words spoken on a podcast belong to the people who said them; this repo
+# publishes an index of facts, short attributed quotes, and original commentary.
+transcripts/
+*.srt
+*.vtt
+*.docx
+*.mp3
+*.m4a
+*.wav
+
+.DS_Store
+node_modules/
